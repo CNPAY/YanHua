@@ -14,9 +14,7 @@
 
 - [https://nianbroken.github.io/Firework_Simulator/](https://nianbroken.github.io/Firework_Simulator/ "https://nianbroken.github.io/Firework_Simulator/")
 
-- [https://fireworks.nianbroken.top/](https://fireworks.nianbroken.top/ "https://fireworks.nianbroken.top/")
-
-## 文字烟花
+## 配置修改
 
 - 在 `js` → `script.js` 的第 81 行处可以修改文字烟花中的文字
 
@@ -34,11 +32,14 @@
 
 - [Firework Simulator v2](https://codepen.io/MillerTime/pen/XgpNwb)
 
-- [haodong108/fireworks-2023](https://gitee.com/haodong108/fireworks-2023 "haodong108/fireworks-2023")
+- [haodong108/fireworks-2023](https://gitee.com/haodong108/fireworks-2023)
 
-## 最便宜的VPN
+## 最便宜的 VPN
 
-[https://nianbroken.github.io/Great-Firewall/](https://nianbroken.github.io/Great-Firewall/ "https://nianbroken.github.io/Great-Firewall/")
+[https://nianbroken.github.io/Great-Firewall/](https://nianbroken.github.io/Great-Firewall/)
+
+## 性价比最高的 ChatGPT 镜像站
+[Aizex 合租面板](https://aizex.klaio.top/)
 
 ## 其他
 
